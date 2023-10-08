@@ -1,7 +1,7 @@
 # [N1ghtFOX](https://n1ght-f0x.github.io/N1ght/)
 
 
--=-=-=-=-=-=-=-=-=-
+---
 
 
 He/Him
@@ -9,7 +9,7 @@ He/Him
 Minecraft commandblock coder/artist
 
 
--=-=-=-=-=-=-=-=-=-
+---
 
 My Socials:
 
@@ -24,4 +24,4 @@ My Socials:
 
 
 
--=-=-=-=-=-=-=-=-=-
+---
