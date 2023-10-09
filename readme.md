@@ -30,5 +30,5 @@ My Socials:
 #### other pages
 ##### [dowlands](https://n1ght-f0x.github.io/N1ght/dowlands)
 ##### [contact](https://n1ght-f0x.github.io/N1ght/contact)
-[Blog Page](
-https://n1ght-f0x.github.io/N1ght/Blog)
+##### [Blog Page](
+https://n1ght-f0x.github.io/N1ght/blog)
