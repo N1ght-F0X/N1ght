@@ -27,4 +27,6 @@ My Socials:
 ---
 
 
-**Test**
+#### other pages
+##### [dowlands](https://n1ght-f0x.github.io/N1ght/dowlands)
+##### [contact](https://n1ght-f0x.github.io/N1ght/contact)
